@@ -4,7 +4,7 @@
 Bärenhunger
 
 ### Development platform: 
-Windows 10, Unity, Visual Studio 2019
+Windows 10, Unity 2020.3.18f1, Visual Studio 2019
 
 ### Target platform: 
 WebGL
