@@ -13,7 +13,8 @@ WebGL
 Screenshots (concept and experience), Video
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Font: Penguin Regular
+Music: Playtime - all good folks ( https://uppbeat.io/track/all-good-folks/playtime )
 
 ### Project state: 
 incl. progress in percent
