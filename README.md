@@ -1,7 +1,7 @@
-# Template2D-Unity202015f1
+# Bärenhunger
 
 ### Project description: 
-Bärenhunger
+Füttere den hungrigen Bär aber pass auf! Gemeine Schlangen lauern auf das leckere Essen!
 
 ### Development platform: 
 Windows 10, Unity 2020.3.18f1, Visual Studio 2019
@@ -22,10 +22,10 @@ Font: Penguin Regular
 Music: Playtime - all good folks ( https://uppbeat.io/track/all-good-folks/playtime )
 
 ### Project state: 
-incl. progress in percent
+90% done
 
-### Limitations: 
+### Extra: 
+Musik, Animationen & ganz viel Liebe!
 
-### Lessons Learned: 
 
 Copyright by Louis
